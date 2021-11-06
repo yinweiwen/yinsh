@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-11-06T06:31:24.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" version="15.7.0" etag="zC0meKPzOHiMMCdx3ooh" type="github"><diagram id="auNFhBju666vTCpGH7on">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-06T06:40:04.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="mzBbI51FGYgJtV2OiKtX" version="15.7.0" type="github">
+  <diagram id="auNFhBju666vTCpGH7on" name="第 1 页">
+    <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#60E696;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="T73w5AWaM1BzwFd7GDXU-1" target="T73w5AWaM1BzwFd7GDXU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="140" />
+              <mxPoint x="190" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-11" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.633;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#60E696;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="T73w5AWaM1BzwFd7GDXU-1" target="T73w5AWaM1BzwFd7GDXU-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="140" />
+              <mxPoint x="456" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-1" value="ASP.Net Core UI" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-9" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="T73w5AWaM1BzwFd7GDXU-2" target="T73w5AWaM1BzwFd7GDXU-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="230" />
+              <mxPoint x="100" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-10" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#60E696;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="T73w5AWaM1BzwFd7GDXU-2" target="T73w5AWaM1BzwFd7GDXU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-2" value="服务端呈现" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-12" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#60E696;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" edge="1" parent="1" source="T73w5AWaM1BzwFd7GDXU-3" target="T73w5AWaM1BzwFd7GDXU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-3" value="客户端呈现" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-5" value="ASP.Net Core Razor Pages" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-6" value="ASP.NET Core MVC" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T73w5AWaM1BzwFd7GDXU-7" value="Blazor" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#F694C1;strokeColor=#AF45ED;fontColor=#095C86;sketch=1;fontFamily=Times New Roman;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
